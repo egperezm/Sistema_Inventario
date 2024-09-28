@@ -1,4 +1,4 @@
-## Configuración del proyecto 
+## Configuración del proyecto Inventario de Productos 
 - Project: Maven
 - Language: Java
 - Spring Boot Version: 3.x (compatible con Java 17)
